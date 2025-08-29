@@ -1,3 +1,4 @@
+This is a Jupyter Notebook project.
 
 We are a newly hired pokémon scientist that have been tasked with finding the ultimate pokémon team by Professor Oak. At our disposal we have the trusty Pokédex. Our goals with this analysis is to:
 
